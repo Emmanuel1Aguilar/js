@@ -1,0 +1,7 @@
+{
+    "productos" : [
+            {"nombre": "Nuevo leon CP: 64102 Paqueteria Redpack"},
+            {"nombre": "CDMX CP: 64103 paquteria: UPS"},
+            {"nombre": "Guadalajara CP: 64104 paquteria: 'DHL"}
+        ]
+    }
